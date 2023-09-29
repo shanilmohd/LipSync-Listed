@@ -4,7 +4,7 @@ This project is based on Wav2Lip-GFPGAN, but updates the requirements.txt (to fu
 ## Steps to run
 
 1. Open the **Wav2Lipsync.ipynb** file in your google colab.
-   link : https://colab.research.google.com/drive/1rUpBPfJKceGAw2OliwXrp0GSHCSx2mJ0#scrollTo=cNQKH6i8BImP
+   link : https://colab.research.google.com/drive/1rUpBPfJKceGAw2OliwXrp0GSHCSx2mJ0?usp=sharing
 
 2. Connect your colab notebook to the runtime and run the first section ***Setting up.***
 
