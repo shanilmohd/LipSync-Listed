@@ -3,14 +3,15 @@ This project is based on Wav2Lip-GFPGAN, but updates the requirements.txt (to fu
 
 ## Steps to run
 
-2. Open the **Wav2Lipsync.ipynb** file in your google colab
+1. Open the **Wav2Lipsync.ipynb** file in your google colab.
+   link : https://colab.research.google.com/drive/1rUpBPfJKceGAw2OliwXrp0GSHCSx2mJ0#scrollTo=cNQKH6i8BImP
 
-3. Connect your colab notebook to the runtime and run the first section ***Setting up.***
+2. Connect your colab notebook to the runtime and run the first section ***Setting up.***
 
-4. Upload your audio and video to the `/content/wav2lip-HD/inputs` directory.
+3. Upload your audio and video to the `/content/wav2lip-HD/inputs` directory.
   
-5. Enter the file names (not file path) in the cell under ***Providing inputs and running the Model*** section and choose your Wav2Lip model. 
+4. Enter the file names (not file path) in the cell under ***Providing inputs and running the Model*** section and choose your Wav2Lip model. 
 
-6. Run all the below cells upto but not ***Running this will empty /inputs and /outputs, so you can start again, fresh*** section. 
+5. Run all the below cells upto but not ***Running this will empty /inputs and /outputs, so you can start again, fresh*** section. 
 
-7. Now clear the input/output if needed.
+6. Now clear the input/output if needed.
